@@ -1,0 +1,15 @@
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\obj\Debug\DVDStore.DBAccess.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\obj\Debug\DVDStore.DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\DVDStore.DBAccess.dll.config
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\DVDStore.DBAccess.dll
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\DVDStore.DBAccess.pdb
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\DVDStore.DataBase.dll
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\EntityFramework.dll
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\DVDStore.DataBase.pdb
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\DVDStore.DataBase.dll.config
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\EntityFramework.xml
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\obj\Debug\DVDStore.DBAccess.csproj.CopyComplete
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\obj\Debug\DVDStore.DBAccess.dll
+C:\Users\ClevelandCodes\Desktop\DVDStore\DVDStore\DVDStore.DBAccess\obj\Debug\DVDStore.DBAccess.pdb
